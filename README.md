@@ -38,6 +38,9 @@ python main.py
 4. **IA** : L'intelligence artificielle joue automatiquement à son tour
 5. **Recommencer** : Cliquez sur "NOUVELLE PARTIE" pour relancer
 
+6. <img width="625" height="591" alt="image" src="https://github.com/user-attachments/assets/6913b14f-9ab8-42b8-94ac-a03c9584b649" />
+
+
 ## 🤖 Intelligence Artificielle
 
 L'IA utilise plusieurs techniques avancées :
@@ -115,4 +118,5 @@ Pour ajuster la difficulté, modifiez la profondeur dans `get_best_move()`.
 ---
 
 **Amusez-vous bien et essayez de battre l'IA ! 🎮**
+
 
