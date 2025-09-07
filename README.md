@@ -1,5 +1,7 @@
 # Puissance 4 - IA Minimax
 
+<img width="632" height="770" alt="image" src="https://github.com/user-attachments/assets/52c95738-0d3a-4716-b8e2-f1b88a10a9e6" />
+
 Un jeu de Puissance 4 (Connect 4) avec une intelligence artificielle avancée développé en Python avec Tkinter.
 
 ## 🎯 Fonctionnalités
@@ -113,3 +115,4 @@ Pour ajuster la difficulté, modifiez la profondeur dans `get_best_move()`.
 ---
 
 **Amusez-vous bien et essayez de battre l'IA ! 🎮**
+
